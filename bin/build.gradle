@@ -1,0 +1,12 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+   implementation 'io.sirix:sirix-core:0.9.3'
+}
+
+mainClassName = "example.Main"

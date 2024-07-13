@@ -1,0 +1,9 @@
+{
+    "dogs": [
+        {"id": 1, "breed": "Lab", "color": "Black"},
+        {"id": 2, "breed": "Poodle", "color": "White"},
+        {"id": 3, "breed": "Mutt", "color": "Mix"},
+        {"id": 4, "breed": "Shepard", "color": "Black"},
+        {"id": 5, "breed": "Beagle", "color": "Mix"}
+    ]
+}
